@@ -1,2 +1,2 @@
-# pytorch-diabetes-app
-intelligent application that uses the pytorch diabetes model
+# diabetes-app
+intelligent application that uses a pytorch diabetes model
